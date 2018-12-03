@@ -20,6 +20,10 @@ And spread it so as to cover her face.
 If her horny feet protrude, they come    
 To show how cold she is, and dumb.    
 Let the lamp affix its beam.    
-The only emperor is the emperor of ice-cream.     
+The only emperor is the emperor of ice-cream.    
+
+{% highlight python %}
+	code code code
+{% endhighlight %} 
 
 ### Wallace Stevens
