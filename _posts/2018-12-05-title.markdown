@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Contrôle parental (blacklists)
-date: 2018-12-03 15:09:00
-description: Contrôle parental et suppression de la publicité avec privoxy, squid et squidguard.
+title: Webmin
+date: 2018-12-05 15:09:00
+description: Webmin
 ---
 INTERNET - Filtrer son réseau internet à l'aide d'un Raspberry Pi pour filtrer les nuisances.
 
